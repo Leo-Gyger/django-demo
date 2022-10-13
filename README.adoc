@@ -1,14 +1,13 @@
 = Basic demo with Django
 
 == Usage
-    . verify that you have Django installed on your machine
-    . create a virtual environment with:
+    . Create a virtual environment with:
         python -m venv venv
-    .   activate the environment with: source venv/bin/activate
-    . import dependencies with
+    . Activate the environment with: source venv/bin/activate
+    . Import dependencies with
         python -m pip install -r requirements.txt
-    . launch python manage.py runserver
-    . then go to http://127.0.0.1/upload
+    . Launch python manage.py runserver
+    . Then go to http://127.0.0.1/upload
 
 == links
-  *  https://www.djangoproject.com/download/ [Django installation guide]
+  *  https://www.djangoproject.com/download/ [Django's installation guide]
