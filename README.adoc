@@ -2,6 +2,11 @@
 
 == Usage
     . verify that you have Django installed on your machine
+    . create a virtual environment with:
+        python -m venv venv
+    .   activate the environment with: source venv/bin/activate
+    . import dependencies with
+        python -m pip install -r requirements.txt
     . launch python manage.py runserver
     . then go to http://127.0.0.1/upload
 
