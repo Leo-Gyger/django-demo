@@ -1,0 +1,9 @@
+= Basic demo with Django
+
+== Usage
+    . verify that you have Django installed on your machine
+    . launch python manage.py runserver
+    . then go to 127.0.0.1/upload
+
+== links
+  *  https://www.djangoproject.com/download/ [Django installation guide]
