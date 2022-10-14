@@ -122,7 +122,6 @@ venv.bak/
 /site
 db.sqlite3
 .idea
-templates
 # mypy
 .mypy_cache/
 .dmypy.json
