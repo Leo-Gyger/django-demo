@@ -1,7 +1,5 @@
 from django.db.models import QuerySet
-from django.shortcuts import render
 from django.http import HttpResponse as response
-from django.http import Http404
 from .models import Question
 from django.shortcuts import render, get_object_or_404
 
