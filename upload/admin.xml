@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Register your models here.</title>
+<date>2022-10-14</date>
+</info>
+<simpara>from django.contrib import admin</simpara>
+<section xml:id="_register_your_models_here">
+<title>Register your models here.</title>
+<simpara>from .models import Question as question</simpara>
+<simpara>admin.site.register(question)</simpara>
+</section>
+</article>
